@@ -9,7 +9,7 @@ Example Matlab scripts as provided with textbook
 
 ![alt text](http://breckon.eu/toby/fundipbook/images/cover_blk_1.png "cover")
 
-```
+```bibtex
 @Book{solomonbreckon10fundamentals,
   author 	= 	 {Solomon, C.J. and Breckon, T.P.},
   title 	= 	 {Fundamentals of Digital Image Processing: A Practical Approach with Examples in Matlab},
