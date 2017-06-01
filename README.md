@@ -13,7 +13,7 @@ Example Matlab scripts as provided with textbook
 @Book{solomonbreckon10fundamentals,
   author 	= 	 {Solomon, C.J. and Breckon, T.P.},
   title 	= 	 {Fundamentals of Digital Image Processing:
-                A Practical Approach with Examples in Matlab},
+                                A Practical Approach with Examples in Matlab},
   publisher 	= 	 {Wiley-Blackwell},
   year 		= 	 {2010},
   isbn 		= {0470844736},
