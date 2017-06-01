@@ -7,7 +7,7 @@
 
 %% cycle through all PNG files in a given directory
 %% (and in this case display them)
-%% [for use with suggested sutdent projects on www.fundipbook.com/materials/]
+%% [for use with suggested student projects on www.fundipbook.com/materials/]
 
 %% change '*.png' in code below for other image types
 
