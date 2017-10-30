@@ -11,7 +11,7 @@ subplot(2,3,2), imshow(log(1+abs(FT)),[]);          	%Display FT modulus (log sc
 subplot(2,3,3), imshow(log(1+abs(FT_centred)),[]);      %Display centred FT modulus(log scale)
  
 Im1=abs(ifft2(FT)); subplot(2,3,5), imshow(Im1,[]); 	%Inverse FFT and display
-Im2=abs(ifft2(FT_centred)); subplot(2,3,6), imshow(Im1,[]); %Inverse FFT and display
+Im2=abs(ifft2(FT_centred)); subplot(2,3,6), imshow(Im2,[]); %Inverse FFT and display
  
 figure;
 [xd,yd]=size(A); x=-xd./2:xd./2-1; y=-yd./2:yd./2-1;
