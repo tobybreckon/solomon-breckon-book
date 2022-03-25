@@ -9,11 +9,10 @@ Example Matlab scripts as provided with textbook
 
 ```bibtex
 @Book{solomonbreckon10fundamentals,
-  author 	= 	 {Solomon, C.J. and Breckon, T.P.},
-  title 	= 	 {Fundamentals of Digital Image Processing:
-                                A Practical Approach with Examples in Matlab},
-  publisher 	= 	 {Wiley-Blackwell},
-  year 		= 	 {2010},
+  author 	= {Solomon, C.J. and Breckon, T.P.},
+  title 	= {Fundamentals of Digital Image Processing: A Practical Approach with Examples in Matlab},
+  publisher 	= {Wiley-Blackwell},
+  year 		= {2010},
   isbn 		= {0470844736},
   doi 		= {10.1002/9780470689776},
   url 		= {http://www.fundipbook.com}
