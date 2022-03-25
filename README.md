@@ -5,7 +5,7 @@ ISBN: 0470844736, DOI:10.1002/9780470689776, http://www.fundipbook.com
 
 Example Matlab scripts as provided with textbook
 
-![alt text](http://breckon.eu/toby/fundipbook/images/cover_blk_1.png "cover")
+![alt text](https://www.fundipbook.com/images/cover_blk_1.png "cover")
 
 ```bibtex
 @Book{solomonbreckon10fundamentals,
